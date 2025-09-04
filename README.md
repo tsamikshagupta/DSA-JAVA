@@ -4,6 +4,7 @@
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 ## Dynamic Programming
@@ -19,4 +20,12 @@
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 <!---LeetCode Topics End-->
