@@ -1,4 +1,11 @@
 # DSA-JAVA
+
+This repository is a collection of **Data Structures and Algorithms (DSA) implementations in Java**, created as part of my practice and learning journey.  
+
+It is organized topic-wise for easy reference and contains clean, reusable, and well-structured Java code.  
+
+The purpose of this repository is to strengthen my **problem-solving skills** and serve as a resource for anyone preparing for **technical interviews, competitive programming, or enhancing their core computer science fundamentals**. 
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
