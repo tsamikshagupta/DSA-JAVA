@@ -50,6 +50,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
 ## Combinatorics
 |  |
@@ -67,6 +68,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 ## String
 |  |
 | ------- |
@@ -74,6 +76,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0008-string-to-integer-atoi](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0010-regular-expression-matching) |
+| [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 ## Sliding Window
 |  |
 | ------- |
