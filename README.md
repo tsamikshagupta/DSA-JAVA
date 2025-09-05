@@ -57,6 +57,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0033-search-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0035-search-insert-position) |
+| [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -69,6 +70,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
+| [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 ## Combinatorics
 |  |
 | ------- |
