@@ -25,6 +25,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0010-regular-expression-matching](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0010-regular-expression-matching) |
+| [0022-generate-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
@@ -85,6 +86,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0022-generate-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -111,4 +113,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
