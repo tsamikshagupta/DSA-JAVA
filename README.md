@@ -12,6 +12,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0011-container-with-most-water](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
@@ -34,6 +35,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0011-container-with-most-water) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 ## Binary Search
@@ -80,6 +82,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
+| [0011-container-with-most-water](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0011-container-with-most-water) |
 ## Recursion
 |  |
 | ------- |
