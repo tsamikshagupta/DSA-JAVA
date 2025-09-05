@@ -25,6 +25,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0053-maximum-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
+| [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
@@ -40,6 +41,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 ## Matrix
 |  |
 | ------- |
