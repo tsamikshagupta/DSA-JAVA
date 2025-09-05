@@ -21,6 +21,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
+| [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -74,6 +75,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0015-3sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0015-3sum) |
 | [0016-3sum-closest](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0016-3sum-closest) |
+| [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Heap (Priority Queue)
 |  |
@@ -85,6 +87,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 ## String
 |  |
 | ------- |
@@ -98,6 +101,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0022-generate-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 ## Sliding Window
 |  |
 | ------- |
