@@ -85,6 +85,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 ## Combinatorics
 |  |
 | ------- |
@@ -109,6 +110,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 ## String
 |  |
 | ------- |
@@ -141,6 +143,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0027-remove-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 ## Recursion
 |  |
 | ------- |
