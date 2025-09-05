@@ -27,6 +27,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
@@ -44,6 +45,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Matrix
 |  |
 | ------- |
