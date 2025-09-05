@@ -84,6 +84,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0010-regular-expression-matching](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 | [0012-integer-to-roman](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 ## Sliding Window
 |  |
 | ------- |
@@ -104,4 +105,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
