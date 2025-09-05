@@ -32,6 +32,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
 ## Dynamic Programming
@@ -184,4 +185,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
