@@ -20,6 +20,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
@@ -67,8 +68,13 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+## Two Pointers
+|  |
+| ------- |
+| [0005-longest-palindromic-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0005-longest-palindromic-substring) |
 <!---LeetCode Topics End-->
