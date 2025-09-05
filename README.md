@@ -39,6 +39,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
+| [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 ## Matrix
 |  |
 | ------- |
@@ -71,6 +72,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0013-roman-to-integer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -146,4 +148,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
