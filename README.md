@@ -19,6 +19,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0027-remove-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0027-remove-element) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
@@ -52,6 +53,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0035-search-insert-position](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0035-search-insert-position) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
