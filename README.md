@@ -73,6 +73,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
+| [0278-first-bad-version](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 ## Divide and Conquer
 |  |
@@ -197,4 +198,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
