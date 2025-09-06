@@ -141,6 +141,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -158,6 +159,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
+| [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 ## Recursion
 |  |
 | ------- |
