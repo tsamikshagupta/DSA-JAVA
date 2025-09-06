@@ -93,6 +93,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Combinatorics
 |  |
 | ------- |
@@ -165,6 +166,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Linked List
 |  |
 | ------- |
@@ -196,6 +198,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
+| [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Prefix Sum
 |  |
 | ------- |
