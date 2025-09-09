@@ -33,6 +33,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0792-binary-search) |
@@ -60,6 +61,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -256,4 +258,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
