@@ -32,6 +32,6 @@ class Solution {
                 left = i + 1;
             }
         }
-         throw new IllegalArgumentException("Input arrays are not valid.");
+         throw new IllegalArgumentException("Input arrays are not valid");
     }
 }
