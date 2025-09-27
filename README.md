@@ -38,6 +38,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0792-binary-search) |
+| [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -119,6 +120,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0441-arranging-coins](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0441-arranging-coins) |
+| [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -268,4 +270,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
+## Geometry
+|  |
+| ------- |
+| [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 <!---LeetCode Topics End-->
