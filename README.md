@@ -18,6 +18,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0018-4sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0027-remove-element) |
+| [0031-next-permutation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0035-search-insert-position) |
@@ -207,6 +208,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0026-remove-duplicates-from-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0031-next-permutation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0031-next-permutation) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
