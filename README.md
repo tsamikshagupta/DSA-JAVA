@@ -185,6 +185,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0022-generate-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0038-count-and-say](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
