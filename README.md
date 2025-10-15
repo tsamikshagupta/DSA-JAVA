@@ -294,6 +294,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Geometry
@@ -307,6 +308,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 ## Enumeration
 |  |
@@ -319,6 +321,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
@@ -326,4 +329,5 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 <!---LeetCode Topics End-->
