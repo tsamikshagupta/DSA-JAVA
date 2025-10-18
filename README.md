@@ -302,6 +302,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Geometry
 |  |
 | ------- |
@@ -318,6 +319,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Enumeration
 |  |
 | ------- |
@@ -335,6 +337,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,4 +351,5 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
