@@ -306,6 +306,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Geometry
 |  |
@@ -324,6 +325,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Enumeration
 |  |
@@ -343,6 +345,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 ## Binary Tree
 |  |
@@ -358,5 +361,6 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
+| [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 <!---LeetCode Topics End-->
