@@ -125,6 +125,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0029-divide-two-integers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0050-powx-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0050-powx-n) |
 | [0062-unique-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
@@ -192,6 +193,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0038-count-and-say](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0038-count-and-say) |
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -268,6 +270,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0029-divide-two-integers) |
+| [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Prefix Sum
@@ -291,6 +294,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Breadth-First Search
 |  |
