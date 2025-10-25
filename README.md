@@ -242,6 +242,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 ## Stack
 |  |
 | ------- |
@@ -311,6 +312,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -331,6 +333,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -352,6 +355,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -368,6 +372,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
