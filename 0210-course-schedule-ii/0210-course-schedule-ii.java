@@ -18,19 +18,19 @@ class Solution {
         }
         List<Integer> result = new ArrayList<>();
          
-        while (!queue.isEmpty()){
+        while(!queue.isEmpty()){
             int curr = queue.poll();
             result.add(curr);  
-            for (int neighbor:adj[curr]) {
+            for(int neighbor:adj[curr]) {
                 indegree[neighbor]--;
-                if (indegree[neighbor] == 0){
+                if(indegree[neighbor] == 0){
                     queue.offer(neighbor);
                 }
             }
         }
-        if (result.size() == numCourses){
+        if(result.size() == numCourses){
             int[] order = new int[numCourses];
-            for (int i=0;i<numCourses;i++) {
+            for(int i=0;i<numCourses;i++) {
                 order[i] = result.get(i);
             }
             return order;
