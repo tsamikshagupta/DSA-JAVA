@@ -5,14 +5,14 @@ class Solution {
             adj[i]= new ArrayList<>();
         }
         int[] indegree = new int[numCourses];
-        for (int[] pre:prerequisites) {
+        for(int[] pre:prerequisites) {
             int ai = pre[0],bi = pre[1];
             adj[bi].add(ai);      
             indegree[ai]++;       
         }
         Queue<Integer> queue = new LinkedList<>();
-        for (int i=0;i<numCourses;i++) {
-            if (indegree[i] == 0) {
+        for(int i=0;i<numCourses;i++) {
+            if(indegree[i] == 0) {
                 queue.offer(i);
             }
         }
