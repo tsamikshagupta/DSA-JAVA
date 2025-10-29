@@ -319,6 +319,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -345,6 +346,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -408,4 +410,12 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
+## Graph
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
