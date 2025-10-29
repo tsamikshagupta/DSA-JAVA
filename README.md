@@ -251,6 +251,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Backtracking
@@ -334,6 +335,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -357,6 +359,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
@@ -378,6 +381,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
