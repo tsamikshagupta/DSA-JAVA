@@ -26,8 +26,6 @@ class Solution {
             curr = stack.pop();
             result.add(curr.val);
             curr = curr.right;
-
-
         }
         return result;
         
