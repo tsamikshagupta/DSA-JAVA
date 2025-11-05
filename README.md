@@ -232,6 +232,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0010-regular-expression-matching](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -244,6 +245,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0024-swap-nodes-in-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 ## Stack
