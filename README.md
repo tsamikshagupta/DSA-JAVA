@@ -33,6 +33,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0066-plus-one) |
+| [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
@@ -88,6 +89,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0036-valid-sudoku](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0036-valid-sudoku) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
+| [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -208,6 +210,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -273,6 +276,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0039-combination-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0046-permutations) |
+| [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 ## String Matching
 |  |
 | ------- |
@@ -351,6 +355,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
