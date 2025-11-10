@@ -358,6 +358,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0104-maximum-depth-of-binary-tree) |
@@ -387,6 +388,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -411,6 +413,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 | [0100-same-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0102-binary-tree-level-order-traversal) |
@@ -434,6 +437,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0099-recover-binary-search-tree) |
 ## Graph
 |  |
 | ------- |
