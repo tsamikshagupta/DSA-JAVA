@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static int maxProfit(int[] prices) {
         int minprice = Integer.MAX_VALUE;
@@ -12,7 +11,5 @@ class Solution {
             }
         } 
         return maxprofit; 
-    }
-   
-    
+    }   
 }
