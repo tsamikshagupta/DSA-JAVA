@@ -47,6 +47,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0792-binary-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0792-binary-search) |
@@ -268,6 +269,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
+| [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Backtracking
@@ -324,6 +326,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0043-multiply-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0043-multiply-strings) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 ## Breadth-First Search
