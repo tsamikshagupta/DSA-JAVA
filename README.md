@@ -81,6 +81,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
@@ -382,6 +383,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
@@ -414,6 +416,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -439,6 +442,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0112-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0112-path-sum) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
