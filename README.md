@@ -150,6 +150,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [0069-sqrtx](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -303,6 +304,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0040-combination-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
+| [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 ## String Matching
@@ -325,6 +327,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0029-divide-two-integers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 ## Prefix Sum
