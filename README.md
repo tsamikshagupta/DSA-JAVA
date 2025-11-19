@@ -30,6 +30,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
+| [0057-insert-interval](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0066-plus-one) |
