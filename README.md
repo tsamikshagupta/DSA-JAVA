@@ -232,6 +232,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
+| [0093-restore-ip-addresses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0093-restore-ip-addresses) |
 | [0097-interleaving-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0097-interleaving-string) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
@@ -310,6 +311,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0046-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0046-permutations) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
+| [0093-restore-ip-addresses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 ## String Matching
