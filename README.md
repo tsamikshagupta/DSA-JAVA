@@ -60,6 +60,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
@@ -349,6 +350,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Prefix Sum
 |  |
 | ------- |
