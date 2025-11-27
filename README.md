@@ -72,6 +72,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -229,6 +230,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1015-smallest-integer-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## String
 |  |
 | ------- |
@@ -366,6 +368,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
+| [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 ## Interactive
 |  |
 | ------- |
