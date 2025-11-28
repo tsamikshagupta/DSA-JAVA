@@ -45,6 +45,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
+| [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
@@ -95,6 +96,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
