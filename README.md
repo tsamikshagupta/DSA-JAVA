@@ -270,6 +270,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
@@ -346,6 +347,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
+| [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 ## String Matching
 |  |
 | ------- |
@@ -451,6 +453,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -486,6 +489,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
@@ -516,6 +520,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
