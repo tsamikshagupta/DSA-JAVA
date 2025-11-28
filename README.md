@@ -40,6 +40,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
@@ -94,6 +95,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0097-interleaving-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0097-interleaving-string) |
 | [0118-pascals-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
