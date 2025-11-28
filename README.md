@@ -451,6 +451,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0687-longest-univalue-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Enumeration
 |  |
 | ------- |
@@ -484,6 +485,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0687-longest-univalue-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0687-longest-univalue-path) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
+| [2872-maximum-number-of-k-divisible-components](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 ## Binary Tree
 |  |
 | ------- |
