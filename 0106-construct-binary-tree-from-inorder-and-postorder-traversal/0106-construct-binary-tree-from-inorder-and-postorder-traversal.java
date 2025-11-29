@@ -31,7 +31,6 @@ class Solution {
         int leftSize = inorderIndex - inStart;
         root.left = build(inorder, postorder,inStart, inorderIndex - 1,postStart, postStart + leftSize - 1,
         indexMap);
-
         root.right = build(inorder, postorder,inorderIndex + 1, inEnd,postStart + leftSize, postEnd - 1,
         indexMap);
  return root;
