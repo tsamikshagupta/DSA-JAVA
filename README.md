@@ -34,6 +34,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0066-plus-one) |
+| [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
@@ -360,6 +361,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0039-combination-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0046-permutations) |
+| [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
@@ -388,6 +390,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0029-divide-two-integers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0029-divide-two-integers) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
