@@ -284,6 +284,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0071-simplify-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0091-decode-ways](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0093-restore-ip-addresses) |
@@ -356,6 +357,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
+| [0071-simplify-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
