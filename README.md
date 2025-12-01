@@ -76,6 +76,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -137,6 +138,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 ## Binary Search
 |  |
@@ -158,6 +160,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -224,6 +227,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 ## Heap (Priority Queue)
