@@ -51,6 +51,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0045-jump-game-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
@@ -219,6 +221,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
+| [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -287,6 +290,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
