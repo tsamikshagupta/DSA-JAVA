@@ -265,6 +265,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
+| [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
@@ -305,6 +306,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
+| [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
