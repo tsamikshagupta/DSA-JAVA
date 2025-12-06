@@ -57,6 +57,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
+| [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -236,6 +237,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
+| [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -618,4 +620,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+## Counting Sort
+|  |
+| ------- |
+| [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 <!---LeetCode Topics End-->
