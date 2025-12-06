@@ -53,6 +53,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -201,6 +202,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0263-ugly-number) |
@@ -526,6 +528,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 ## Tree
 |  |
@@ -627,4 +630,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
