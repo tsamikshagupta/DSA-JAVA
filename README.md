@@ -49,6 +49,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
@@ -435,6 +436,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
