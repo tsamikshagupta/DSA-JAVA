@@ -355,6 +355,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0709-to-lower-case](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0709-to-lower-case) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
