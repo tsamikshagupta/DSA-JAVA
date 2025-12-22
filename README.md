@@ -278,6 +278,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
@@ -316,6 +317,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -363,6 +365,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0709-to-lower-case](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0709-to-lower-case) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -491,6 +494,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
+| [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Prefix Sum
 |  |
