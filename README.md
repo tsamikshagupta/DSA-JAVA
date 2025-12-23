@@ -90,6 +90,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -145,6 +146,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+| [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -198,6 +200,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 ## Divide and Conquer
 |  |
@@ -288,6 +291,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2092-find-all-people-with-secret](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2092-find-all-people-with-secret) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -300,6 +304,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 ## Hash Table
 |  |
 | ------- |
