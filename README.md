@@ -379,6 +379,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -422,6 +423,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
