@@ -243,6 +243,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0263-ugly-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
+| [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0367-valid-perfect-square) |
@@ -757,6 +758,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Brainteaser
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
@@ -766,4 +768,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
