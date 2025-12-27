@@ -405,6 +405,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
+| [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 ## Sliding Window
 |  |
@@ -478,6 +479,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
+| [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 ## Backtracking
 |  |
 | ------- |
@@ -569,6 +571,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
 ## Breadth-First Search
 |  |
