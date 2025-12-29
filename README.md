@@ -69,6 +69,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0485-max-consecutive-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
