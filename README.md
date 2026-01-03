@@ -822,4 +822,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
