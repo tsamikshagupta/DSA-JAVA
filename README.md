@@ -101,6 +101,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
@@ -184,6 +185,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
 |  |
 | ------- |
@@ -198,6 +200,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
