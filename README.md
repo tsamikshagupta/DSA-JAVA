@@ -680,6 +680,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2092-find-all-people-with-secret) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
@@ -727,6 +728,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 ## Binary Tree
@@ -766,6 +768,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
