@@ -237,6 +237,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0004-median-of-two-sorted-arrays) |
+| [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0053-maximum-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
@@ -343,6 +344,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
@@ -495,6 +497,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
+| [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0086-partition-list) |
@@ -840,4 +843,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0175-combine-two-tables) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
