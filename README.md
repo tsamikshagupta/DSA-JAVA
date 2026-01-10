@@ -158,6 +158,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
@@ -434,6 +435,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0709-to-lower-case](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0709-to-lower-case) |
+| [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0955-delete-columns-to-make-sorted-ii) |
