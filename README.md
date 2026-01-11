@@ -42,6 +42,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -141,6 +142,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0091-decode-ways](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
@@ -182,6 +184,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
@@ -514,6 +517,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0020-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0032-longest-valid-parentheses) |
 | [0071-simplify-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0071-simplify-path) |
+| [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0094-binary-tree-inorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
@@ -598,6 +602,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Queue
