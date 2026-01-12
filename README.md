@@ -94,6 +94,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
@@ -289,6 +290,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1015-smallest-integer-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -662,6 +664,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
+| [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 ## Depth-First Search
