@@ -66,6 +66,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
@@ -380,6 +381,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0290-word-pattern) |
@@ -462,6 +464,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
