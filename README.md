@@ -105,6 +105,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
+| [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
@@ -199,6 +200,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
+| [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 ## Greedy
@@ -608,6 +610,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
+| [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
