@@ -99,6 +99,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -477,6 +478,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
