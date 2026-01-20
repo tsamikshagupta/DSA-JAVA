@@ -124,6 +124,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3075-maximize-happiness-of-selected-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3251-maximum-area-of-longest-diagonal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3251-maximum-area-of-longest-diagonal-rectangle) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
@@ -613,6 +614,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
+| [3314-construct-the-minimum-bitwise-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
 ## Prefix Sum
 |  |
 | ------- |
