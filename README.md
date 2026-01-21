@@ -687,6 +687,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
@@ -730,6 +731,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0687-longest-univalue-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0687-longest-univalue-path) |
@@ -913,4 +915,12 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [3454-separate-squares-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3454-separate-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
