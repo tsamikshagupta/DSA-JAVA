@@ -117,6 +117,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -419,6 +420,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
@@ -499,6 +501,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
