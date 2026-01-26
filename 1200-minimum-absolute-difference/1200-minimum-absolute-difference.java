@@ -3,8 +3,7 @@ class Solution {
         Arrays.sort(arr);
         int min = Integer.MAX_VALUE;
         for(int i = 1 ; i < arr.length ; i++){
-            int diff = arr[i] - arr[i - 1];
-            if(diff < min) min = diff;
+            min = Math.min(min , arr[i] - arr[i - 1]);
         }
         List<List<Integer>> ans = new ArrayList<>();
         for(int i = 1; i < arr.length ; i++){
