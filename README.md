@@ -395,6 +395,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Hash Table
 |  |
 | ------- |
@@ -957,6 +958,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -967,4 +969,8 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+## Shortest Path
+|  |
+| ------- |
+| [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
