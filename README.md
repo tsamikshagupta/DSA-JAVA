@@ -429,6 +429,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -492,6 +493,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
@@ -640,6 +642,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3583-count-special-triplets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3583-count-special-triplets) |
 ## Bit Manipulation
@@ -692,6 +695,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
