@@ -149,6 +149,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Dynamic Programming
 |  |
@@ -199,6 +200,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
 | [3573-best-time-to-buy-and-sell-stock-v](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3573-best-time-to-buy-and-sell-stock-v) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Matrix
 |  |
 | ------- |
@@ -218,6 +220,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
 | ------- |
