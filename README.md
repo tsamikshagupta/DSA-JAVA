@@ -98,6 +98,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1029-two-city-scheduling) |
@@ -276,6 +277,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0792-binary-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -538,6 +540,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
+| [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -686,6 +689,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
+| [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
