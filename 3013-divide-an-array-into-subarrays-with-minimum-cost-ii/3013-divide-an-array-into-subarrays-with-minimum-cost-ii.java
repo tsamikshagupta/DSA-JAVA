@@ -1,8 +1,4 @@
-import java.util.*;
-
 class Solution {
-
-    // Multiset using TreeMap (value -> count)
     static class MultiSet {
         TreeMap<Integer, Integer> map = new TreeMap<>();
         int size = 0;
@@ -26,13 +22,12 @@ class Solution {
         boolean isEmpty() { return size == 0; }
     }
 
-    private MultiSet small = new MultiSet(); // holds k-2 smallest in window
-    private MultiSet large = new MultiSet(); // holds remaining
+    private MultiSet small = new MultiSet(); 
+    private MultiSet large = new MultiSet(); 
     private long sumSmall = 0;
-    private int need; // = k-2
+    private int need;
 
     private void rebalance() {
-        // Ensure small has exactly 'need' elements (when possible)
         while (small.size < need && !large.isEmpty()) {
             int x = large.first();
             large.remove(x);
@@ -48,7 +43,7 @@ class Solution {
     }
 
     private void addVal(int v) {
-        if (need == 0) { // nothing to maintain in small
+        if (need == 0) { 
             large.add(v);
             return;
         }
@@ -57,7 +52,6 @@ class Solution {
             small.add(v);
             sumSmall += v;
         } else {
-            // small is full
             int largestInSmall = small.last();
             if (v < largestInSmall) {
                 small.remove(largestInSmall);
@@ -86,27 +80,16 @@ class Solution {
     public long minimumCost(int[] nums, int k, int dist) {
         int n = nums.length;
         need = k - 2;
-
-        // Build initial window for i1 = 1:
-        // window elements are nums[2 .. 1+dist]
         int start = 2;
         int end = Math.min(n - 1, 1 + dist);
 
         for (int i = start; i <= end; i++) addVal(nums[i]);
 
         long best = Long.MAX_VALUE;
-
-        // i1 ranges so that we can still form k subarrays
         for (int i1 = 1; i1 <= n - k + 1; i1++) {
-            // evaluate with current window [i1+1 .. i1+dist]
             best = Math.min(best, (long) nums[i1] + sumSmall);
-
-            // slide window to next i1:
-            // remove outgoing index (i1+1)
             int outIdx = i1 + 1;
             if (outIdx <= n - 1) removeVal(nums[outIdx]);
-
-            // add incoming index (i1+dist+1)
             int inIdx = i1 + dist + 1;
             if (inIdx <= n - 1) addVal(nums[inIdx]);
         }
