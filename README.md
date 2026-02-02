@@ -134,6 +134,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -413,6 +414,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
@@ -459,6 +461,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -548,6 +551,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 ## Two Pointers
