@@ -371,6 +371,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
+| [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
@@ -615,6 +616,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
+| [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 ## Recursion
 |  |
 | ------- |
@@ -1019,6 +1021,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
+| [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
