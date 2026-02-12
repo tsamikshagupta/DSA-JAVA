@@ -496,6 +496,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## String
@@ -565,6 +566,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
+| [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -705,6 +707,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3583-count-special-triplets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3583-count-special-triplets) |
+| [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -876,6 +879,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1925-count-square-sum-triples](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1925-count-square-sum-triples) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 ## Tree
 |  |
 | ------- |
