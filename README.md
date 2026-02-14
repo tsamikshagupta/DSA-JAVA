@@ -210,6 +210,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0799-champagne-tower](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0799-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
