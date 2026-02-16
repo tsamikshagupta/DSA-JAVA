@@ -8,11 +8,12 @@ class Solution {
                 seen.add(c);
                 max = Math.max(max , right - left + 1);
                 right++;
-            }
-            else{
+            }else{
                 seen.remove(s.charAt(left));
                 left++;
             }
+            
+            
         }
         return max;
     }
