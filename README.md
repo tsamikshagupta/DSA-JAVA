@@ -81,6 +81,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
+| [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
@@ -411,6 +412,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
+| [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0748-largest-number-at-least-twice-of-others](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0748-largest-number-at-least-twice-of-others) |
@@ -481,6 +483,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
@@ -587,6 +590,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -719,6 +723,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
+| [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [3583-count-special-triplets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
