@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static boolean isPowerOfFour(int n) {
         if(n<=0) return false;
