@@ -1,28 +1,18 @@
 class Solution {
     public int divide(int dividend, int divisor) {
-        if(dividend==Integer.MIN_VALUE && divisor == -1){
+        if (dividend == Integer.MIN_VALUE && divisor == -1)
             return Integer.MAX_VALUE;
-        }
-        int sign = (dividend<0) ^ (divisor<0) ?-1:1;
-        long absDividend = Math.abs((long)dividend);
-        long absDivisor = Math.abs((long)divisor);
-        long q = 0;
-        while(absDividend >= absDivisor){
-            long tempDivisor = absDivisor;
-            long multiple = 1;
-            while(absDividend>=(tempDivisor << 1) && (tempDivisor << 1) > 0){
-                tempDivisor <<= 1; 
-                multiple <<=1;
-            }
-            absDividend -= tempDivisor;
-            q += multiple;
-        }
-        q = sign * q;
-        if(q>Integer.MAX_VALUE) return Integer.MAX_VALUE;
-        if(q<Integer.MIN_VALUE) return Integer.MIN_VALUE;
-        return (int) q;
-        
 
-        
+        long a = Math.abs((long) dividend);
+        long b = Math.abs((long) divisor);
+        int ans = 0;
+        for (int i = 31; i >= 0; i--) {
+            if ((a >> i) >= b) {
+                a -= b << i;
+                ans += 1 << i;
+            }
+        }
+
+        return ((dividend > 0) ^ (divisor > 0)) ? -ans : ans;
     }
 }
