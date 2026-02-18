@@ -474,6 +474,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
@@ -549,6 +550,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -592,6 +594,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0076-minimum-window-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
@@ -746,6 +749,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
@@ -1132,4 +1136,12 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
+## Hash Function
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
