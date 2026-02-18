@@ -748,6 +748,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
+| [0201-bitwise-and-of-numbers-range](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0338-counting-bits) |
