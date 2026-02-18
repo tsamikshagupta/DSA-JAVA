@@ -3,10 +3,10 @@ class Solution {
         long add = 0;      
         long subtract = 0; 
         for (int num : nums) {
-            long newAdd = Math.max(add, subtract + num);
-            long newSubtract = Math.max(subtract, add - num);
-            add = newAdd;
-            subtract = newSubtract;
+            long maxadd = Math.max(add, subtract + num);
+            long maxsub = Math.max(subtract, add - num);
+            add = maxadd;
+            subtract = maxsub;
         }
         return add;
     }
