@@ -566,6 +566,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
@@ -639,6 +640,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
+| [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
