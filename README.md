@@ -367,6 +367,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0441-arranging-coins](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0507-perfect-number) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
@@ -772,6 +773,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0461-hamming-distance](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
