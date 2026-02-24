@@ -921,6 +921,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0687-longest-univalue-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0687-longest-univalue-path) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -978,6 +979,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0701-insert-into-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
@@ -1024,6 +1026,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0701-insert-into-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
+| [1022-sum-of-root-to-leaf-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1022-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
