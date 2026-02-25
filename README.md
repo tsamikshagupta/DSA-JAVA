@@ -117,6 +117,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
@@ -430,6 +431,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1029-two-city-scheduling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -748,6 +750,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3583-count-special-triplets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3583-count-special-triplets) |
 | [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
@@ -779,6 +782,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0868-binary-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0868-binary-gap) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [3314-construct-the-minimum-bitwise-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3314-construct-the-minimum-bitwise-array-i) |
