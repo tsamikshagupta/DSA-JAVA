@@ -79,6 +79,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
+| [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
@@ -420,6 +421,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
+| [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
