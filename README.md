@@ -601,6 +601,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [1689-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1689-partitioning-into-minimum-number-of-deci-binary-numbers) |
@@ -684,6 +685,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0390-elimination-game) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Linked List
@@ -852,6 +854,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
+| [1545-find-kth-bit-in-nth-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1929-concatenation-of-array) |
