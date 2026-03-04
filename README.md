@@ -127,6 +127,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
@@ -261,6 +262,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
+| [1582-special-positions-in-a-binary-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
