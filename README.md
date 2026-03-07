@@ -237,6 +237,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1911-maximum-alternating-subsequence-sum) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -614,6 +615,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1758-minimum-changes-to-make-alternating-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1758-minimum-changes-to-make-alternating-binary-string) |
 | [1784-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1784-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
@@ -641,6 +643,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
