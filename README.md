@@ -169,6 +169,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
+| [3452-sum-of-good-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3452-sum-of-good-numbers) |
 | [3453-separate-squares-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3453-separate-squares-i) |
 | [3454-separate-squares-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3454-separate-squares-ii) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
