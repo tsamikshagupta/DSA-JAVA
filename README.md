@@ -407,6 +407,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+| [3227-vowels-game-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3227-vowels-game-in-a-string) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
@@ -626,6 +627,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
+| [3227-vowels-game-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3227-vowels-game-in-a-string) |
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3714-longest-balanced-substring-ii) |
@@ -1131,6 +1133,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
 | [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
+| [3227-vowels-game-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3227-vowels-game-in-a-string) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 ## Union Find
 |  |
@@ -1148,6 +1151,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
+| [3227-vowels-game-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3227-vowels-game-in-a-string) |
 ## Database
 |  |
 | ------- |
