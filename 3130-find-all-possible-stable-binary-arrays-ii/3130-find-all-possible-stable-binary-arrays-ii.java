@@ -1,5 +1,4 @@
 class Solution {
-
     public int numberOfStableArrays(int zero, int one, int limit) {
         int MOD = 1_000_000_007;
         long[][][] dp = new long[zero + 1][one + 1][2];
