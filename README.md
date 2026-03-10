@@ -124,6 +124,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
