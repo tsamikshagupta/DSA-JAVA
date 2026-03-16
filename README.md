@@ -635,6 +635,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1071-greatest-common-divisor-of-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1143-longest-common-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -765,6 +766,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0636-exclusive-time-of-functions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
