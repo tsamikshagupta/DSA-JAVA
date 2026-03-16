@@ -12,8 +12,6 @@ class Solution {
                 seen.remove(s.charAt(left));
                 left++;
             }
-            
-            
         }
         return max;
     }
