@@ -2,7 +2,7 @@ class Solution {
     public static int removeDuplicates(int[] nums) {
         if(nums.length == 0) return 0;
         int slow = 0;
-        for(int fast = 1 ; fast < nums.length; fast++){
+        for(int fast = 0 ; fast < nums.length ; fast++){
             if(nums[fast] != nums[slow]){
                 slow++;
                 nums[slow] = nums[fast];
@@ -10,5 +10,4 @@ class Solution {
         }
         return slow + 1;
     }
-    
 }
