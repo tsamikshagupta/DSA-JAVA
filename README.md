@@ -240,6 +240,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
+| [1143-longest-common-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
@@ -632,6 +633,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0990-satisfiability-of-equality-equations) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1143-longest-common-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
