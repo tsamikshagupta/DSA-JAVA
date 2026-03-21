@@ -199,6 +199,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3634-minimum-removals-to-balance-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3637-trionic-array-i) |
 | [3640-trionic-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3640-trionic-array-ii) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
@@ -292,6 +293,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3212-count-submatrices-with-equal-frequency-of-x-and-y](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3212-count-submatrices-with-equal-frequency-of-x-and-y) |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
@@ -730,6 +732,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
+| [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 ## Recursion
 |  |
 | ------- |
