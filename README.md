@@ -152,6 +152,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1980-find-unique-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
+| [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -921,6 +922,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 ## Simulation
 |  |
@@ -938,6 +940,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1929-concatenation-of-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
