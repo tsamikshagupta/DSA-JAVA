@@ -785,6 +785,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0636-exclusive-time-of-functions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
@@ -918,6 +919,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1213,6 +1215,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
+| [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Game Theory
 |  |
