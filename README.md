@@ -118,6 +118,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1029-two-city-scheduling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1029-two-city-scheduling) |
+| [1046-last-stone-weight](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [1200-minimum-absolute-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
@@ -519,6 +520,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [1046-last-stone-weight](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1046-last-stone-weight) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
