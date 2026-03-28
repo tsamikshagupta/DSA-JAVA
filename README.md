@@ -403,6 +403,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
+| [0172-factorial-trailing-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
