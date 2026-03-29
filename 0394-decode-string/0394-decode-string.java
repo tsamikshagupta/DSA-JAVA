@@ -1,7 +1,7 @@
 class Solution {
     public String decodeString(String s) {
-        Stack<Integer> countStack = new Stack<>();
-        Stack<StringBuilder> stringStack = new Stack<>();
+        Stack<Integer> cstack = new Stack<>();
+        Stack<StringBuilder> sstack = new Stack<>();
         StringBuilder curr = new StringBuilder();
         int k = 0;
         for (char c : s.toCharArray()) {
@@ -9,14 +9,14 @@ class Solution {
                 k = k * 10 + (c - '0'); 
             } 
             else if (c == '[') {
-                countStack.push(k);
-                stringStack.push(curr);
+                cstack.push(k);
+                sstack.push(curr);
                 curr = new StringBuilder();
                 k = 0;
             } 
             else if (c == ']') {
-                int repeat = countStack.pop();
-                StringBuilder prev = stringStack.pop();
+                int repeat = cstack.pop();
+                StringBuilder prev = sstack.pop();
                 
                 for (int i = 0; i < repeat; i++) {
                     prev.append(curr);
