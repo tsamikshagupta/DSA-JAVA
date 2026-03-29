@@ -89,6 +89,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
+| [0605-can-place-flowers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0636-exclusive-time-of-functions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
@@ -311,6 +312,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0134-gas-station) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
+| [0605-can-place-flowers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
