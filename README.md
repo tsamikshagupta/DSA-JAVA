@@ -697,6 +697,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
@@ -823,6 +824,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
+| [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 ## Backtracking
 |  |
@@ -977,6 +979,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2288-count-operations-to-obtain-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2288-count-operations-to-obtain-zero) |
+| [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3379-transformed-array) |
