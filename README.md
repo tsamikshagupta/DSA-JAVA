@@ -143,6 +143,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1732-find-the-highest-altitude](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -501,6 +502,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
@@ -582,6 +584,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1980-find-unique-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -748,6 +751,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
