@@ -660,6 +660,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0394-decode-string) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -781,6 +782,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0342-power-of-four) |
 | [0390-elimination-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0390-elimination-game) |
+| [0394-decode-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0394-decode-string) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -816,6 +818,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0394-decode-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0394-decode-string) |
 | [0636-exclusive-time-of-functions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0636-exclusive-time-of-functions) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0735-asteroid-collision) |
