@@ -673,6 +673,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1545-find-kth-bit-in-nth-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1545-find-kth-bit-in-nth-binary-string) |
 | [1651-shuffle-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1651-shuffle-string) |
@@ -711,6 +712,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
