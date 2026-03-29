@@ -653,6 +653,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0443-string-compression](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0443-string-compression) |
 | [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0709-to-lower-case](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0709-to-lower-case) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
@@ -742,6 +743,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
+| [0443-string-compression](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0443-string-compression) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
