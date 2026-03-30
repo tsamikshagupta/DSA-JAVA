@@ -96,6 +96,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0643-maximum-average-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0717-1-bit-and-2-bit-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0735-asteroid-collision](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
@@ -252,6 +253,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
 | [0799-champagne-tower](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0799-champagne-tower) |
@@ -324,6 +326,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0605-can-place-flowers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0649-dota2-senate) |
+| [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0759-set-intersection-size-at-least-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0759-set-intersection-size-at-least-two) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
