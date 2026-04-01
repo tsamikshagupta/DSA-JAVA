@@ -381,6 +381,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
@@ -706,6 +707,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [1980-find-unique-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1980-find-unique-binary-string) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2147-number-of-ways-to-divide-a-long-corridor](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2147-number-of-ways-to-divide-a-long-corridor) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2185-counting-words-with-a-given-prefix) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
@@ -739,6 +741,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [1888-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1888-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3364-minimum-positive-sum-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3364-minimum-positive-sum-subarray) |
@@ -935,6 +938,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
+| [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
