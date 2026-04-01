@@ -173,6 +173,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
@@ -524,6 +525,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
+| [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
@@ -838,6 +840,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
+| [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 ## Backtracking
 |  |
@@ -996,6 +999,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2352-equal-row-and-column-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [3174-clear-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3174-clear-digits) |
 | [3379-transformed-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3379-transformed-array) |
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
