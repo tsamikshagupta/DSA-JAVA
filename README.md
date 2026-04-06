@@ -60,6 +60,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0128-longest-consecutive-sequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -332,6 +333,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0134-gas-station](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0134-gas-station) |
+| [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0605-can-place-flowers) |
