@@ -119,6 +119,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0990-satisfiability-of-equality-equations) |
+| [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
 | [1018-binary-prefix-divisible-by-5](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-binary-prefix-divisible-by-5) |
@@ -303,6 +304,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
+| [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
@@ -1043,6 +1045,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
