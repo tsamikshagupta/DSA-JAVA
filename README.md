@@ -111,6 +111,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
+| [0875-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
@@ -381,6 +382,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0792-binary-search) |
+| [0875-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
