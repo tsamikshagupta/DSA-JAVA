@@ -995,6 +995,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0649-dota2-senate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0649-dota2-senate) |
+| [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
@@ -1299,6 +1300,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 ## Game Theory
 |  |
 | ------- |
@@ -1388,6 +1390,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 ## Eulerian Circuit
 |  |
 | ------- |
