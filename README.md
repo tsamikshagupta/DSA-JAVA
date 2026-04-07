@@ -165,6 +165,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [1980-find-unique-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1980-find-unique-binary-string) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [1991-find-the-middle-index-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1991-find-the-middle-index-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
@@ -956,6 +957,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1590-make-sum-divisible-by-p](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1590-make-sum-divisible-by-p) |
 | [1732-find-the-highest-altitude](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1732-find-the-highest-altitude) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
+| [1991-find-the-middle-index-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1991-find-the-middle-index-in-array) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
