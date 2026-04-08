@@ -85,6 +85,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
 | [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
@@ -689,6 +690,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0394-decode-string) |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
@@ -1055,6 +1057,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
@@ -1104,6 +1107,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
@@ -1344,6 +1348,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Union-Find
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0990-satisfiability-of-equality-equations) |
@@ -1351,6 +1356,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0841-keys-and-rooms) |
@@ -1372,6 +1378,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Shortest Path
 |  |
 | ------- |
+| [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
