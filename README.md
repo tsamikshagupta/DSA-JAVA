@@ -160,6 +160,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
 | [1911-maximum-alternating-subsequence-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1911-maximum-alternating-subsequence-sum) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1929-concatenation-of-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1929-concatenation-of-array) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -322,6 +323,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1886-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1886-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [1895-largest-magic-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1895-largest-magic-square) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2352-equal-row-and-column-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2352-equal-row-and-column-pairs) |
@@ -1072,6 +1074,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2092-find-all-people-with-secret) |
 ## Geometry
