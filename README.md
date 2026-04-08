@@ -225,6 +225,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
 | [3652-best-time-to-buy-and-sell-stock-using-strategy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3652-best-time-to-buy-and-sell-stock-using-strategy) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Dynamic Programming
@@ -416,6 +417,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0761-special-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 ## Math
@@ -1032,6 +1034,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3433-count-mentions-per-user](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3433-count-mentions-per-user) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
+| [3653-xor-after-range-multiplication-queries-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 ## Breadth-First Search
 |  |
 | ------- |
