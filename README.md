@@ -607,6 +607,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
 | [0740-delete-and-earn](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0740-delete-and-earn) |
@@ -837,6 +838,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
@@ -1311,6 +1313,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 ## Game Theory
@@ -1373,6 +1376,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Ordered Set
