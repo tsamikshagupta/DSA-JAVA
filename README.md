@@ -179,6 +179,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
@@ -364,6 +365,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
+| [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -544,6 +546,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
+| [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
@@ -568,6 +571,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2462-total-cost-to-hire-k-workers) |
+| [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3296-minimum-number-of-seconds-to-make-mountain-height-zero) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
