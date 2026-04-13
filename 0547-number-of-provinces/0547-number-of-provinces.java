@@ -1,5 +1,4 @@
 class Solution {
-
     private void dfs(int node, int[][] isConnected, boolean[] visited) {
         visited[node] = true;
         for (int j = 0; j < isConnected.length; j++) {
