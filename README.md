@@ -820,6 +820,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0021-merge-two-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0050-powx-n) |
+| [0206-reverse-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
@@ -843,6 +844,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0206-reverse-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
