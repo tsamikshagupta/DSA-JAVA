@@ -810,6 +810,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
@@ -848,6 +849,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0328-odd-even-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 ## Stack
@@ -876,6 +878,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [2130-maximum-twin-sum-of-a-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2211-count-collisions-on-a-road](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2211-count-collisions-on-a-road) |
 | [2390-removing-stars-from-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2390-removing-stars-from-a-string) |
 | [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
