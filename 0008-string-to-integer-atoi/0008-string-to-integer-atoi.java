@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static int myAtoi(String s) {
         if(s==null || s.length()==0) return 0;
