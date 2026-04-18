@@ -280,6 +280,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1143-longest-common-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1236-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1236-n-th-tribonacci-number) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1411-number-of-ways-to-paint-n-3-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1411-number-of-ways-to-paint-n-3-grid) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -1145,6 +1146,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2092-find-all-people-with-secret) |
@@ -1207,6 +1209,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 | [2872-maximum-number-of-k-divisible-components](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2872-maximum-number-of-k-divisible-components) |
 | [3562-maximum-profit-from-trading-stocks-with-discounts](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3562-maximum-profit-from-trading-stocks-with-discounts) |
@@ -1257,6 +1260,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Binary Search Tree
 |  |
