@@ -171,6 +171,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1991-find-the-middle-index-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1991-find-the-middle-index-in-array) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2073-time-needed-to-buy-tickets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2073-time-needed-to-buy-tickets) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2110-number-of-smooth-descent-periods-of-a-stock](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2110-number-of-smooth-descent-periods-of-a-stock) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2185-counting-words-with-a-given-prefix) |
@@ -366,6 +367,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1975-maximum-matrix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1975-maximum-matrix-sum) |
+| [2078-two-furthest-houses-with-different-colors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2078-two-furthest-houses-with-different-colors) |
 | [2141-maximum-running-time-of-n-computers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2141-maximum-running-time-of-n-computers) |
 | [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
