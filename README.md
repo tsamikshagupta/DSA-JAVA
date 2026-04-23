@@ -184,6 +184,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2462-total-cost-to-hire-k-workers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2542-maximum-subsequence-score) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2615-sum-of-distances) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
@@ -643,6 +644,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2352-equal-row-and-column-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2352-equal-row-and-column-pairs) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2615-sum-of-distances](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2615-sum-of-distances) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
@@ -993,6 +995,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
 | [2483-minimum-penalty-for-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2483-minimum-penalty-for-a-shop) |
 | [2574-left-and-right-sum-differences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2574-left-and-right-sum-differences) |
+| [2615-sum-of-distances](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2615-sum-of-distances) |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3070-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3129-find-all-possible-stable-binary-arrays-i) |
 | [3130-find-all-possible-stable-binary-arrays-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3130-find-all-possible-stable-binary-arrays-ii) |
