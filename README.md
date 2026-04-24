@@ -884,6 +884,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0682-baseball-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
@@ -1020,6 +1021,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0084-largest-rectangle-in-histogram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0739-daily-temperatures) |
+| [0901-online-stock-span](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1475-final-prices-with-a-special-discount-in-a-shop) |
 | [1628-count-submatrices-with-all-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1628-count-submatrices-with-all-ones) |
 ## Queue
@@ -1359,6 +1361,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 ## Game Theory
@@ -1455,6 +1458,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0901-online-stock-span](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
 ## Eulerian Circuit
 |  |
