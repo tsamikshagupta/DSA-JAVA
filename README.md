@@ -91,6 +91,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
+| [0435-non-overlapping-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0485-max-consecutive-ones) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
@@ -273,6 +274,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0338-counting-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0338-counting-bits) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
+| [0435-non-overlapping-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0740-delete-and-earn) |
@@ -353,6 +355,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0435-non-overlapping-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0605-can-place-flowers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0605-can-place-flowers) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0649-dota2-senate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0649-dota2-senate) |
@@ -533,6 +536,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0594-longest-harmonious-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0611-valid-triangle-number) |
 | [0645-set-mismatch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0645-set-mismatch) |
