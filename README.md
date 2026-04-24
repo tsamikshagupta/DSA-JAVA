@@ -134,6 +134,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1207-unique-number-of-occurrences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1207-unique-number-of-occurrences) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
@@ -403,6 +404,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
 | [1004-max-consecutive-ones-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1004-max-consecutive-ones-iii) |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -542,6 +544,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1029-two-city-scheduling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1029-two-city-scheduling) |
 | [1200-minimum-absolute-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1200-minimum-absolute-difference) |
 | [1262-greatest-sum-divisible-by-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1262-greatest-sum-divisible-by-three) |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1657-determine-if-two-strings-are-close) |
@@ -576,6 +579,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1046-last-stone-weight) |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [2054-two-best-non-overlapping-events](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2054-two-best-non-overlapping-events) |
 | [2336-smallest-number-in-infinite-set](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2336-smallest-number-in-infinite-set) |
 | [2402-meeting-rooms-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2402-meeting-rooms-iii) |
@@ -730,6 +734,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1143-longest-common-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1143-longest-common-subsequence) |
 | [1221-split-a-string-in-balanced-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1221-split-a-string-in-balanced-strings) |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1249-minimum-remove-to-make-valid-parentheses) |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1404-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
@@ -1443,6 +1448,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Trie
 |  |
 | ------- |
+| [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Rolling Hash
 |  |
