@@ -613,6 +613,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -701,6 +702,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
+| [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
@@ -1362,6 +1364,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
+| [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
@@ -1448,6 +1451,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Trie
 |  |
 | ------- |
+| [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Rolling Hash
