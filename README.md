@@ -85,6 +85,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0334-increasing-triplet-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0334-increasing-triplet-subsequence) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0413-arithmetic-slices](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0413-arithmetic-slices) |
@@ -583,6 +584,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
+| [0373-find-k-pairs-with-smallest-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [1046-last-stone-weight](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1046-last-stone-weight) |
