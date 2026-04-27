@@ -145,6 +145,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1441-build-an-array-with-stack-operations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1441-build-an-array-with-stack-operations) |
 | [1458-max-dot-product-of-two-subsequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1458-max-dot-product-of-two-subsequences) |
@@ -329,6 +330,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1536-minimum-swaps-to-arrange-a-binary-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1536-minimum-swaps-to-arrange-a-binary-grid) |
 | [1582-special-positions-in-a-binary-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1582-special-positions-in-a-binary-matrix) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
@@ -1121,6 +1123,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1123-lowest-common-ancestor-of-deepest-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1123-lowest-common-ancestor-of-deepest-leaves) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
@@ -1181,6 +1184,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1339-maximum-product-of-splitted-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1339-maximum-product-of-splitted-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2092-find-all-people-with-secret](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2092-find-all-people-with-secret) |
@@ -1425,6 +1429,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
 | [0990-satisfiability-of-equality-equations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0990-satisfiability-of-equality-equations) |
+| [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 ## Graph Theory
 |  |
 | ------- |
