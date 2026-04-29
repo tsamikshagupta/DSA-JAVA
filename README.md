@@ -734,6 +734,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0443-string-compression) |
+| [0520-detect-capital](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0520-detect-capital) |
 | [0649-dota2-senate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0649-dota2-senate) |
 | [0657-robot-return-to-origin](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
 | [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
