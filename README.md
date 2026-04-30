@@ -241,6 +241,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -313,6 +314,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3578-count-partitions-with-max-min-difference-at-most-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3578-count-partitions-with-max-min-difference-at-most-k) |
 | [3640-trionic-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3640-trionic-array-ii) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Matrix
 |  |
 | ------- |
@@ -349,6 +351,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
 | [3651-minimum-cost-path-with-teleportations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3651-minimum-cost-path-with-teleportations) |
+| [3742-maximum-path-score-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
 ## Greedy
 |  |
 | ------- |
