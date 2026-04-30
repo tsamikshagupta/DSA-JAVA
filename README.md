@@ -37,6 +37,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0053-maximum-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
@@ -531,6 +532,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0018-4sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0018-4sum) |
 | [0047-permutations-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0047-permutations-ii) |
 | [0049-group-anagrams](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0049-group-anagrams) |
+| [0056-merge-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
