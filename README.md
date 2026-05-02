@@ -285,6 +285,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0740-delete-and-earn](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0746-min-cost-climbing-stairs) |
+| [0788-rotated-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0788-rotated-digits) |
 | [0790-domino-and-tromino-tiling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0799-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
@@ -486,6 +487,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0441-arranging-coins](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0441-arranging-coins) |
 | [0507-perfect-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0507-perfect-number) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0788-rotated-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
