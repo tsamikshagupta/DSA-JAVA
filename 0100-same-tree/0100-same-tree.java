@@ -13,9 +13,6 @@
  *     }
  * }
  */
-import java.util.LinkedList;
-import java.util.Queue;
-
 public class Solution {
     public boolean isSameTree(TreeNode p, TreeNode q) {
         Queue<TreeNode> queueP = new LinkedList<>();
