@@ -750,6 +750,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [0756-pyramid-transition-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0756-pyramid-transition-matrix) |
 | [0761-special-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0761-special-binary-string) |
+| [0796-rotate-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0796-rotate-string) |
 | [0831-masking-personal-information](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0831-masking-personal-information) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0955-delete-columns-to-make-sorted-ii) |
@@ -954,6 +955,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0796-rotate-string) |
 | [2185-counting-words-with-a-given-prefix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2185-counting-words-with-a-given-prefix) |
 ## Memoization
 |  |
