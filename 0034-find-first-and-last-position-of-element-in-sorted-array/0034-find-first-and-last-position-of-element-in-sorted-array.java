@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static int[] searchRange(int[] nums, int target) {
         int[] result = new int[]{-1,-1};
