@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static int search(int[] nums, int target) {
         if(nums==null || nums.length==0) return -1;
