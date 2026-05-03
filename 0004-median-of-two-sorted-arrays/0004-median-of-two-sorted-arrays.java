@@ -22,7 +22,7 @@ class Solution {
 
             if (nums1LeftMax <= nums2RightMin && nums2LeftMax <= nums1RightMin) {
                 if ((m + n) % 2 == 0) {
-                    return (Math.max(nums1LeftMax, nums2LeftMax) + Math.min     (nums1RightMin, nums2RightMin)) / 2.0;
+                    return (Math.max(nums1LeftMax, nums2LeftMax) + Math.min     (nums1RightMin, nums2RightMin)) /2.0;
                 } else {
                     return Math.max(nums1LeftMax, nums2LeftMax);
                 }
