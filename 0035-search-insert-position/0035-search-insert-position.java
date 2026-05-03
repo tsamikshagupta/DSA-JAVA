@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static  int searchInsert(int[] nums, int target) {
         int low =0;
