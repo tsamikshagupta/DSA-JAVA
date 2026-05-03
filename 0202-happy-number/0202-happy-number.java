@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static boolean isHappy(int n) {
         int slow = n;
