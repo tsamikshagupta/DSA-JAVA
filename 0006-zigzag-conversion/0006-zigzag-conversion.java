@@ -7,10 +7,8 @@ class Solution {
         for (int j = 0; j < numRows; j++) {
             arr[j] = new StringBuilder();
         }
-
         int cr = 0, i = 0, mod = 0; 
         int[] dir = {1, -1}; 
-
         while (i < s.length()) {
             arr[cr].append(s.charAt(i)); 
             i++;
