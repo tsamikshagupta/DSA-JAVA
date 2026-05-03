@@ -5,7 +5,6 @@ class Solution {
         int maxarea = 0;
         while(left < right){
             int currentarea = Math.min(height[left], height[right]) * (right - left);
-
             if(height[left] < height[right]){
                 left++;
             }else{
