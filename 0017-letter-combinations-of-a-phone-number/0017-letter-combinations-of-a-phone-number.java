@@ -21,5 +21,4 @@ class Solution {
             current.deleteCharAt(current.length() - 1);
         }
     }
-        
-    }
+}
