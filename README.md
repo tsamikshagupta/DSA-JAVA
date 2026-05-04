@@ -71,6 +71,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0198-house-robber) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
@@ -471,6 +472,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0172-factorial-trailing-zeroes) |
+| [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
@@ -841,6 +843,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
