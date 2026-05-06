@@ -42,6 +42,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0063-unique-paths-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0064-minimum-path-sum) |
 | [0066-plus-one](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0066-plus-one) |
+| [0068-text-justification](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0068-text-justification) |
 | [0075-sort-colors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
@@ -715,6 +716,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0058-length-of-last-word](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0058-length-of-last-word) |
 | [0065-valid-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0065-valid-number) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0071-simplify-path) |
 | [0072-edit-distance](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0076-minimum-window-substring) |
@@ -1088,6 +1090,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0043-multiply-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0043-multiply-strings) |
 | [0054-spiral-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0054-spiral-matrix) |
 | [0067-add-binary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0067-add-binary) |
+| [0068-text-justification](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0068-text-justification) |
 | [0258-add-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0657-robot-return-to-origin) |
