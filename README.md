@@ -482,6 +482,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
+| [0224-basic-calculator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0258-add-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0258-add-digits) |
@@ -740,6 +741,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
+| [0224-basic-calculator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
@@ -885,6 +887,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0024-swap-nodes-in-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0024-swap-nodes-in-pairs) |
 | [0050-powx-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0050-powx-n) |
 | [0206-reverse-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0206-reverse-linked-list) |
+| [0224-basic-calculator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0326-power-of-three](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0326-power-of-three) |
@@ -929,6 +932,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0145-binary-tree-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0155-min-stack) |
+| [0224-basic-calculator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0394-decode-string) |
