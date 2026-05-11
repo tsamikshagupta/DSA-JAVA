@@ -644,6 +644,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
@@ -913,6 +914,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
