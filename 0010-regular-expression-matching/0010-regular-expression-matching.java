@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public static boolean isMatch(String s, String p) {
         Boolean[][] memo = new Boolean[s.length() + 1][p.length() + 1];
