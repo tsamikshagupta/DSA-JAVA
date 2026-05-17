@@ -414,6 +414,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0222-count-complete-tree-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0278-first-bad-version) |
 | [0367-valid-perfect-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0367-valid-perfect-square) |
@@ -1030,6 +1031,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0201-bitwise-and-of-numbers-range](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0201-bitwise-and-of-numbers-range) |
+| [0222-count-complete-tree-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0338-counting-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0338-counting-bits) |
@@ -1287,6 +1289,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0144-binary-tree-preorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
@@ -1343,6 +1346,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0144-binary-tree-preorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0222-count-complete-tree-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
