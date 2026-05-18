@@ -1,5 +1,3 @@
-import java.util.*;
-import java.util.regex.*;
 class Solution {
     public int threeSumClosest(int[] nums, int target) {
         Arrays.sort(nums);
