@@ -75,6 +75,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0198-house-robber) |
+| [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
@@ -336,6 +337,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0073-set-matrix-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0079-word-search) |
 | [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
+| [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
@@ -1162,6 +1164,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
@@ -1218,6 +1221,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0144-binary-tree-preorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0199-binary-tree-right-side-view) |
+| [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
@@ -1512,6 +1516,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
