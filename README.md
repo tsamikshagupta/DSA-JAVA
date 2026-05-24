@@ -1175,6 +1175,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0617-merge-two-binary-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0617-merge-two-binary-trees) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
@@ -1235,6 +1236,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0637-average-of-levels-in-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0684-redundant-connection](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0684-redundant-connection) |
 | [0687-longest-univalue-path](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0687-longest-univalue-path) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0872-leaf-similar-trees) |
@@ -1308,6 +1310,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0700-search-in-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0872-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
@@ -1367,6 +1370,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0700-search-in-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
 | [0872-leaf-similar-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0872-leaf-similar-trees) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
@@ -1393,6 +1397,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0700-search-in-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
 ## Graph
 |  |
