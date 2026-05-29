@@ -669,6 +669,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0387-first-unique-character-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
@@ -768,6 +769,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0405-convert-a-number-to-hexadecimal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0412-fizz-buzz](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0412-fizz-buzz) |
 | [0424-longest-repeating-character-replacement](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0424-longest-repeating-character-replacement) |
+| [0433-minimum-genetic-mutation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0433-minimum-genetic-mutation) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0443-string-compression](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0443-string-compression) |
 | [0482-license-key-formatting](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0482-license-key-formatting) |
@@ -1179,6 +1181,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
+| [0433-minimum-genetic-mutation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0433-minimum-genetic-mutation) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0547-number-of-provinces](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0547-number-of-provinces) |
