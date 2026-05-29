@@ -132,6 +132,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
 | [0907-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0907-koko-eating-bananas) |
+| [0909-snakes-and-ladders](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0909-snakes-and-ladders) |
 | [0944-delete-columns-to-make-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
@@ -344,6 +345,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
+| [0909-snakes-and-ladders](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
@@ -1186,6 +1188,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0783-minimum-distance-between-bst-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0841-keys-and-rooms](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0841-keys-and-rooms) |
 | [0865-smallest-subtree-with-all-the-deepest-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0865-smallest-subtree-with-all-the-deepest-nodes) |
+| [0909-snakes-and-ladders](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
 | [1005-univalued-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1005-univalued-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
