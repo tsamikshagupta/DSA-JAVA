@@ -456,6 +456,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0148-sort-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
@@ -558,6 +559,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0056-merge-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0148-sort-list) |
 | [0164-maximum-gap](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0164-maximum-gap) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
@@ -873,6 +875,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0086-partition-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
+| [0148-sort-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0148-sort-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
@@ -935,6 +938,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0138-copy-list-with-random-pointer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0148-sort-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0328-odd-even-linked-list) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
@@ -1518,6 +1522,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
+| [0148-sort-list](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0148-sort-list) |
 ## Segment Tree
 |  |
 | ------- |
