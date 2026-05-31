@@ -102,6 +102,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0414-third-maximum-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0414-third-maximum-number) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0435-non-overlapping-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
@@ -346,6 +347,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
+| [0427-construct-quad-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [0909-snakes-and-ladders](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0909-snakes-and-ladders) |
 | [0994-rotting-oranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0994-rotting-oranges) |
@@ -463,6 +465,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
+| [0427-construct-quad-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0761-special-binary-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0761-special-binary-string) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [1382-balance-a-binary-search-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1382-balance-a-binary-search-tree) |
@@ -1329,6 +1332,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
+| [0427-construct-quad-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0450-delete-node-in-a-bst) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0515-find-largest-value-in-each-tree-row) |
