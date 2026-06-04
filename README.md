@@ -80,6 +80,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0209-minimum-size-subarray-sum) |
+| [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0216-combination-sum-iii) |
@@ -346,6 +347,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0085-maximal-rectangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
+| [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
@@ -764,6 +766,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0205-isomorphic-strings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0205-isomorphic-strings) |
 | [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [0224-basic-calculator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0224-basic-calculator) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
@@ -1009,6 +1012,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
+| [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0401-binary-watch](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0401-binary-watch) |
@@ -1596,6 +1600,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0211-design-add-and-search-words-data-structure) |
+| [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [1268-search-suggestions-system](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1268-search-suggestions-system) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 ## Rolling Hash
