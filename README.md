@@ -68,6 +68,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0134-gas-station](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0137-single-number-ii) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
@@ -1063,6 +1064,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0090-subsets-ii) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
+| [0137-single-number-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0137-single-number-ii) |
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0190-reverse-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0191-number-of-1-bits) |
