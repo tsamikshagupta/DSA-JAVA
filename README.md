@@ -581,6 +581,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
+| [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0389-find-the-difference](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0389-find-the-difference) |
@@ -630,6 +631,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0023-merge-k-sorted-lists](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0215-kth-largest-element-in-an-array) |
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
+| [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0373-find-k-pairs-with-smallest-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0373-find-k-pairs-with-smallest-sums) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
@@ -897,6 +899,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0189-rotate-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0392-is-subsequence) |
@@ -1509,6 +1512,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0211-design-add-and-search-words-data-structure](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -1621,6 +1625,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0901-online-stock-span](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0901-online-stock-span) |
 | [0933-number-of-recent-calls](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0933-number-of-recent-calls) |
