@@ -89,6 +89,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0216-combination-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0216-combination-sum-iii) |
 | [0217-contains-duplicate](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0219-contains-duplicate-ii) |
+| [0221-maximal-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0221-maximal-square) |
 | [0228-summary-ranges](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0239-sliding-window-maximum) |
@@ -294,6 +295,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
+| [0221-maximal-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0221-maximal-square) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [0300-longest-increasing-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
@@ -355,6 +357,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0130-surrounded-regions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0200-number-of-islands) |
 | [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
+| [0221-maximal-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0221-maximal-square) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0417-pacific-atlantic-water-flow](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0417-pacific-atlantic-water-flow) |
 | [0419-battleships-in-a-board](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0419-battleships-in-a-board) |
