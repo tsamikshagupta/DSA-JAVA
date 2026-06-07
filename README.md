@@ -69,6 +69,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0137-single-number-ii) |
+| [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0162-find-peak-element) |
@@ -499,6 +500,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0096-unique-binary-search-trees) |
+| [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0172-factorial-trailing-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0172-factorial-trailing-zeroes) |
@@ -674,6 +676,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0133-clone-graph](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
+| [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
 | [0187-repeated-dna-sequences](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0187-repeated-dna-sequences) |
 | [0202-happy-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0202-happy-number) |
@@ -1234,6 +1237,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Geometry
 |  |
 | ------- |
+| [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [1266-minimum-time-visiting-all-points](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1266-minimum-time-visiting-all-points) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
