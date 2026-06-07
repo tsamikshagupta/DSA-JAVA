@@ -69,6 +69,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0135-candy](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -289,6 +290,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0198-house-robber](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
@@ -675,6 +677,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0128-longest-consecutive-sequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0146-lru-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0146-lru-cache) |
 | [0149-max-points-on-a-line](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0149-max-points-on-a-line) |
 | [0169-majority-element](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0169-majority-element) |
@@ -769,6 +772,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
 | [0179-largest-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0179-largest-number) |
@@ -1041,6 +1045,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
 | [1137-n-th-tribonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1137-n-th-tribonacci-number) |
@@ -1613,6 +1618,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 ## Trie
 |  |
 | ------- |
+| [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0208-implement-trie-prefix-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0208-implement-trie-prefix-tree) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
