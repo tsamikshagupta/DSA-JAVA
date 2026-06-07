@@ -95,6 +95,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0274-h-index](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0274-h-index) |
 | [0283-move-zeroes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0283-move-zeroes) |
+| [0300-longest-increasing-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
@@ -294,6 +295,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0198-house-robber](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0213-house-robber-ii) |
 | [0241-different-ways-to-add-parentheses](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0241-different-ways-to-add-parentheses) |
+| [0300-longest-increasing-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0338-counting-bits) |
@@ -438,6 +440,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0222-count-complete-tree-nodes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0278-first-bad-version) |
+| [0300-longest-increasing-subsequence](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0300-longest-increasing-subsequence) |
 | [0367-valid-perfect-square](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0367-valid-perfect-square) |
 | [0374-guess-number-higher-or-lower](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0374-guess-number-higher-or-lower) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
