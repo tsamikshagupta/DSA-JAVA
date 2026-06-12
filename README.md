@@ -549,6 +549,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1430-find-the-k-beauty-of-a-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1430-find-the-k-beauty-of-a-number) |
+| [1492-the-kth-factor-of-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1680-concatenation-of-consecutive-binary-numbers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1680-concatenation-of-consecutive-binary-numbers) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -1507,6 +1508,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | ------- |
 | [0204-count-primes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0204-count-primes) |
 | [0258-add-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0258-add-digits) |
+| [1492-the-kth-factor-of-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
 ## Brainteaser
 |  |
