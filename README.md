@@ -295,6 +295,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0152-maximum-product-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0152-maximum-product-subarray) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
@@ -788,6 +789,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0125-valid-palindrome](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0127-word-ladder) |
+| [0131-palindrome-partitioning](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0139-word-break](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0139-word-break) |
 | [0151-reverse-words-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0151-reverse-words-in-a-string) |
 | [0168-excel-sheet-column-title](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0168-excel-sheet-column-title) |
@@ -1046,6 +1048,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0095-unique-binary-search-trees-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0113-path-sum-ii) |
 | [0126-word-ladder-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0126-word-ladder-ii) |
+| [0131-palindrome-partitioning](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0131-palindrome-partitioning) |
 | [0212-word-search-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0212-word-search-ii) |
 | [0216-combination-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0216-combination-sum-iii) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
