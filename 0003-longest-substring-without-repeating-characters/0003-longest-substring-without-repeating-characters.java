@@ -6,14 +6,17 @@ class Solution {
             char c = s.charAt(right);
             if(!seen.contains(c)){
                 seen.add(c);
-                max = Math.max(max , right - left + 1);
+                max = Math.max(max, right - left + 1);
                 right++;
+                 
             }else{
                 seen.remove(s.charAt(left));
                 left++;
+
             }
         }
         return max;
     }
     
 }
+
