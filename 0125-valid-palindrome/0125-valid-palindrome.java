@@ -1,4 +1,3 @@
-import java.util.*;
 class Solution {
     public boolean isPalindrome(String str) {
         String s = str.replaceAll("[^a-zA-Z0-9]", "").toLowerCase();
