@@ -1,5 +1,6 @@
 class Solution {
-    public long maxSubarraySum(int[] nums, int k) {long[] best = new long[k];
+    public long maxSubarraySum(int[] nums, int k) {
+        long[] best = new long[k];
         Arrays.fill(best, Long.MAX_VALUE);
         long ans = Long.MIN_VALUE;
         long prefix = 0;
