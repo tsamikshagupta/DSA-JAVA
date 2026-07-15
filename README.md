@@ -585,6 +585,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3623-count-number-of-trapezoids-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3623-count-number-of-trapezoids-i) |
 | [3625-count-number-of-trapezoids-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 ## Combinatorics
 |  |
@@ -1536,6 +1537,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0258-add-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0258-add-digits) |
 | [1492-the-kth-factor-of-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Brainteaser
 |  |
 | ------- |
