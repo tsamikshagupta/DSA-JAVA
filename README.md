@@ -270,6 +270,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3719-longest-balanced-subarray-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3719-longest-balanced-subarray-i) |
 | [3721-longest-balanced-subarray-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3721-longest-balanced-subarray-ii) |
 | [3742-maximum-path-score-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3742-maximum-path-score-in-a-grid) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -589,6 +590,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3625-count-number-of-trapezoids-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3625-count-number-of-trapezoids-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
 | ------- |
@@ -659,6 +661,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3567-minimum-absolute-difference-in-sliding-submatrix) |
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 | [3634-minimum-removals-to-balance-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3634-minimum-removals-to-balance-array) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -958,6 +961,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2396-strictly-palindromic-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2396-strictly-palindromic-number) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3643-flip-square-submatrix-vertically](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3643-flip-square-submatrix-vertically) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Recursion
 |  |
 | ------- |
@@ -1230,6 +1234,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3653-xor-after-range-multiplication-queries-i) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -1542,6 +1547,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1492-the-kth-factor-of-n](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1492-the-kth-factor-of-n) |
 | [2761-prime-pairs-with-target-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2761-prime-pairs-with-target-sum) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3658-gcd-of-odd-and-even-sums) |
+| [3867-sum-of-gcd-of-formed-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Brainteaser
 |  |
 | ------- |
