@@ -141,6 +141,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0875-koko-eating-bananas](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-koko-eating-bananas) |
+| [0877-stone-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0877-stone-game) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0890-lemonade-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0890-lemonade-change) |
@@ -326,6 +327,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0790-domino-and-tromino-tiling](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0790-domino-and-tromino-tiling) |
 | [0799-champagne-tower](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0799-champagne-tower) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
+| [0877-stone-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0877-stone-game) |
 | [0918-maximum-sum-circular-subarray](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0960-delete-columns-to-make-sorted-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0960-delete-columns-to-make-sorted-iii) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
@@ -558,6 +560,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0788-rotated-digits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0788-rotated-digits) |
 | [0830-largest-triangle-area](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0830-largest-triangle-area) |
 | [0840-magic-squares-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0840-magic-squares-in-grid) |
+| [0877-stone-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0877-stone-game) |
 | [1013-fibonacci-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1013-fibonacci-number) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1018-largest-perimeter-triangle](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1018-largest-perimeter-triangle) |
@@ -1589,6 +1592,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0292-nim-game) |
+| [0877-stone-game](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0877-stone-game) |
 | [3227-vowels-game-in-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3227-vowels-game-in-a-string) |
 ## Database
 |  |
