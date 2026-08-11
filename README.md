@@ -226,6 +226,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3047-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3047-find-the-largest-area-of-square-inside-two-rectangles) |
@@ -662,6 +663,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2751-robot-collisions](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2751-robot-collisions) |
 | [2943-maximize-area-of-square-hole-in-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2943-maximize-area-of-square-hole-in-grid) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3010-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3010-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3074-apple-redistribution-into-boxes](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3074-apple-redistribution-into-boxes) |
 | [3075-maximize-happiness-of-selected-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3075-maximize-happiness-of-selected-children) |
@@ -768,6 +770,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2615-sum-of-distances](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2615-sum-of-distances) |
 | [2689-rearranging-fruits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2689-rearranging-fruits) |
 | [2975-maximum-square-area-by-removing-fences-from-a-field](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2975-maximum-square-area-by-removing-fences-from-a-field) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3013-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3013-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3381-maximum-subarray-sum-with-length-divisible-by-k](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3381-maximum-subarray-sum-with-length-divisible-by-k) |
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
