@@ -837,6 +837,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0242-valid-anagram](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
 | [0290-word-pattern](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0290-word-pattern) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0344-reverse-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0345-reverse-vowels-of-a-string) |
@@ -1278,6 +1279,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0207-course-schedule](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0210-course-schedule-ii) |
 | [0226-invert-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0226-invert-binary-tree) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0322-coin-change](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0322-coin-change) |
 | [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -1345,6 +1347,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0332-reconstruct-itinerary](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0332-reconstruct-itinerary) |
 | [0399-evaluate-division](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0399-evaluate-division) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
@@ -1424,6 +1427,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0427-construct-quad-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0427-construct-quad-tree) |
 | [0437-path-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0437-path-sum-iii) |
@@ -1486,6 +1490,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0230-kth-smallest-element-in-a-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0257-binary-tree-paths) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0404-sum-of-left-leaves) |
 | [0437-path-sum-iii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0437-path-sum-iii) |
 | [0450-delete-node-in-a-bst](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0450-delete-node-in-a-bst) |
@@ -1595,6 +1600,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0225-implement-stack-using-queues](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0295-find-median-from-data-stream) |
+| [0297-serialize-and-deserialize-binary-tree](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0380-insert-delete-getrandom-o1](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0380-insert-delete-getrandom-o1) |
 | [0460-lfu-cache](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0460-lfu-cache) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0703-kth-largest-element-in-a-stream) |
