@@ -699,6 +699,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3507-minimum-pair-removal-to-sort-array-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3507-minimum-pair-removal-to-sort-array-i) |
 | [3510-minimum-pair-removal-to-sort-array-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3510-minimum-pair-removal-to-sort-array-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Hash Table
 |  |
 | ------- |
@@ -904,6 +905,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [3606-coupon-code-validator](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3606-coupon-code-validator) |
 | [3713-longest-balanced-substring-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3713-longest-balanced-substring-i) |
 | [3714-longest-balanced-substring-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3714-longest-balanced-substring-ii) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Sliding Window
 |  |
 | ------- |
@@ -1675,6 +1677,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Doubly-Linked List
 |  |
 | ------- |
@@ -1695,6 +1698,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [2976-minimum-cost-to-convert-string-i](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2976-minimum-cost-to-convert-string-i) |
 | [2977-minimum-cost-to-convert-string-ii](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2977-minimum-cost-to-convert-string-ii) |
 | [3650-minimum-cost-path-with-edge-reversals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3650-minimum-cost-path-with-edge-reversals) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Trie
 |  |
 | ------- |
