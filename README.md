@@ -173,6 +173,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1354-construct-target-array-with-multiple-sums](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1354-construct-target-array-with-multiple-sums) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1390-four-divisors](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1390-four-divisors) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -486,6 +487,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1292-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1335-maximum-candies-allocated-to-k-children](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1351-count-negative-numbers-in-a-sorted-matrix) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1970-last-day-where-you-can-still-cross](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1970-last-day-where-you-can-still-cross) |
 | [2024-maximize-the-confusion-of-an-exam](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/2024-maximize-the-confusion-of-an-exam) |
@@ -653,6 +655,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [1288-remove-covered-intervals](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1288-remove-covered-intervals) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1727-largest-submatrix-with-rearrangements) |
@@ -979,6 +982,7 @@ The purpose of this repository is to strengthen my **problem-solving skills** an
 | [0696-count-binary-substrings](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0696-count-binary-substrings) |
 | [0875-longest-mountain-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0875-longest-mountain-in-array) |
 | [0881-boats-to-save-people](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/0881-boats-to-save-people) |
+| [1385-find-the-distance-value-between-two-arrays](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1877-minimize-maximum-pair-sum-in-array](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1877-minimize-maximum-pair-sum-in-array) |
 | [1894-merge-strings-alternately](https://github.com/tsamikshagupta/DSA-JAVA/tree/master/1894-merge-strings-alternately) |
